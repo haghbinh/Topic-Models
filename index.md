@@ -7,7 +7,7 @@
 # Topic Models:
 
 
-1. [Title Topic Model 1:](https://github.com/haghbinh/Topic_models/blob/gh-pages/html/ldavis_prepared_10.html) 
+1. [Title Topic Model 1:](https://haghbinh.github.io/Topic_models/html/ldavis_prepared_10.html) 
 2. ...
 
 
