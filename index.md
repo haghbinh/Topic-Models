@@ -1,7 +1,7 @@
 
 ![Title Word Cloud](image/title_word_clod.png)
 
-[The web page wiew](https://github.com/haghbinh/Topic_models/edit/gh-pages/index.md)
+[The web page wiew](https://haghbinh.github.io/Topic_models/)
 
 
 # Topic Models:
