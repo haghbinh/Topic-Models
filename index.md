@@ -7,8 +7,8 @@
 # Topic Models:
 
 
-1. [Title Topic Model 1:](https://haghbinh.github.io/Topic-Models/html/ldavis_prepared_10.html) 
-2. ...
+### 1. [Title Topic Model 1:](https://haghbinh.github.io/Topic-Models/html/ldavis_prepared_10.html) 
+### 2. ...
 
 
 ```
