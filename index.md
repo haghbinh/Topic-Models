@@ -7,8 +7,9 @@
 # Topic Models:
 
 
-### 1. [Title Topic Model 1:](https://haghbinh.github.io/Topic-Models/html/ldavis_prepared_10.html) 
-### 2. ...
+### 1. [Reading Data:](https://haghbinh.github.io/Topic-Models/html/Reading_data.html) 
+### 2. [Data Cleaning:](https://haghbinh.github.io/Topic-Models/html/Data%20Cleaning.html) 
+### 3. [LDA Analysis.html:](https://haghbinh.github.io/Topic-Models/html/LDA%20Analysis.html) 
 
 
 ```
