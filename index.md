@@ -9,7 +9,7 @@
 
 ### 1. [Reading Data:](https://haghbinh.github.io/Topic-Models/html/Reading_data.html) 
 ### 2. [Data Cleaning:](https://haghbinh.github.io/Topic-Models/html/Data%20Cleaning.html) 
-### 3. [LDA Analysis.html:](https://haghbinh.github.io/Topic-Models/html/LDA%20Analysis.html) 
+### 3. [LDA Analysis:](https://haghbinh.github.io/Topic-Models/html/LDA%20Analysis.html) 
 
 
 ```
