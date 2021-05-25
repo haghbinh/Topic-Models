@@ -11,5 +11,6 @@
 ### 2. [Data Cleaning](https://haghbinh.github.io/Topic-Models/html/Data%20Cleaning.html) 
 ### 3. [LDA Analysis For Titles](https://haghbinh.github.io/Topic-Models/html/Title_LDA.html) 
 ### 4. [LDA Analysis For Abstracts](https://haghbinh.github.io/Topic-Models/html/Abstract_LDA.html) 
+### 5. [LDA Analysis For Abstracts (Mallet model)](https://haghbinh.github.io/Topic-Models/html/Abstract_LDA-mallet.html) 
 
 ```
